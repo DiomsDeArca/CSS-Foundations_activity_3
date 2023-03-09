@@ -1,0 +1,13 @@
+.title, .title1, .title2 {
+    color: #db1010;
+    background-color: #ffff00;
+    font-size: large;
+    text-align: center;
+    font-family: 'Roboto';
+    font-weight: 500;
+}
+.contents {
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: large;
+}
